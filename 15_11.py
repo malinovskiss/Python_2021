@@ -1,4 +1,3 @@
-
 print('Sveika, pasaule')
 
-print('Ceturtdien būs Latvijas dzimšanas diena')
+print('Piektdien būs brīvdiena')
